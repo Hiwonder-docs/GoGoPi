@@ -10,6 +10,7 @@
    docs/1.getting_ready.md
    docs/2.quick_user_experience.md
    docs/general_basic_courses.md
-   docs/8.ai_vision_project_course.md
-   docs/9.robot_network_configuration_course.md
+   docs/6.remote.md
+   docs/8.ai_vision_project.md
+   docs/9.network_configuration.md
 
